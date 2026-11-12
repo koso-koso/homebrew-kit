@@ -10,7 +10,7 @@ kit
 
 `kit` opens the setup page: get the iPhone app, pair it, and optionally use it
 away from home. After that, run `kit` instead of `claude`, and the session
-shows up on your phone. kit keeps itself up to date.
+shows up on your phone. When a new version is out, kit asks before updating.
 
 Apple Silicon Macs for now. Windows and Linux are coming.
 
