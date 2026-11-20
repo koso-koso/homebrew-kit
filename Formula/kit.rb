@@ -1,9 +1,9 @@
 class Kit < Formula
   desc "Your Claude Code sessions on your iPhone, straight from this Mac"
   homepage "https://github.com/koso-koso/homebrew-kit"
-  url "https://github.com/koso-koso/homebrew-kit/releases/download/v0.1.15/kit-0.1.15-macos-arm64.tar.gz"
-  version "0.1.15"
-  sha256 "5094a38d2b2d56f0e39adea66eb1d6d92bdb8919d5802f1a15b3bee3896c7bac"
+  url "https://github.com/koso-koso/homebrew-kit/releases/download/v0.1.16/kit-0.1.16-macos-arm64.tar.gz"
+  version "0.1.16"
+  sha256 "f1074f7f741e8071ff052d78a742d214076913c30b1dc02fce98f72c9edaca26"
   license :cannot_represent
 
   depends_on arch: :arm64
